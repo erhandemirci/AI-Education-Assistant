@@ -29,5 +29,5 @@ This project is an **AI-powered chatbot and voice assistant** designed to help s
 ## 🔧 Installation & Setup  
 1. Clone this repository:  
    ```bash
-   git clone https://github.com/your-username/AI-Education-Assistant.git
+   git clone https://github.com/erhandemirci/AI-Education-Assistant.git
    cd AI-Education-Assistant
